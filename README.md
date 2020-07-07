@@ -39,11 +39,11 @@ Note, you must then stop the session and start a new Python session in order for
 
 2. In an R Session:
 ```R
-install.packages('sparklyr', dependencies = TRUE)
-install.packages('plotly')
-install.packages("nycflights13")
-install.packages("Lahman")
-install.packages("mgcv")
+install.packages('sparklyr', dependencies = TRUE) 
+install.packages('plotly') 
+install.packages("nycflights13") 
+install.packages("Lahman") 
+install.packages("mgcv") 
 install.packages('shiny') 
 ```
 
